@@ -1,5 +1,5 @@
 # gmailpy-example
-An example for iDutchy's (gmailpy)[https://github.com/iDutchy/gmailpy] implementation.
+An example for iDutchy's [gmailpy](https://github.com/iDutchy/gmailpy) implementation.
 
 ## How do I run it?
 First off, you need to install gmailpy.
